@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Iambic/static/js/main.e25b9c4b.js",
+    "index.html": "/Iambic/index.html",
+    "main.e25b9c4b.js.map": "/Iambic/static/js/main.e25b9c4b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e25b9c4b.js"
+  ]
+}
